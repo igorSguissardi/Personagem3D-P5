@@ -1,0 +1,18 @@
+/* Reset básico e centralização do canvas */
+body {
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    background-color: #1a1a1a;
+}
+
+/* Estilo para o canvas */
+main {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}   
